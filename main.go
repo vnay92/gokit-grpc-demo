@@ -9,10 +9,10 @@ import (
 
 	"github.com/go-kit/kit/log"
 	"github.com/go-kit/kit/log/level"
-	"github.com/junereycasuga/gokit-grpc-demo/endpoints"
-	"github.com/junereycasuga/gokit-grpc-demo/pb"
-	"github.com/junereycasuga/gokit-grpc-demo/service"
-	transport "github.com/junereycasuga/gokit-grpc-demo/transports"
+	"github.com/vnay92/gokit-grpc-demo/endpoints"
+	"github.com/vnay92/gokit-grpc-demo/pb"
+	"github.com/vnay92/gokit-grpc-demo/service"
+	transport "github.com/vnay92/gokit-grpc-demo/transports"
 	"google.golang.org/grpc"
 )
 

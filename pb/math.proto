@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/junereycasuga/gokit-grpc-demo/pb";
+option go_package = "github.com/vnay92/gokit-grpc-demo/pb";
 
 service MathService {
   rpc Add(MathRequest) returns (MathResponse) {}

@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/go-kit/kit/endpoint"
-	"github.com/junereycasuga/gokit-grpc-demo/service"
+	"github.com/vnay92/gokit-grpc-demo/service"
 )
 
 // Endpoints struct holds the list of endpoints definition
